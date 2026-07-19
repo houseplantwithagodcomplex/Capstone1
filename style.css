@@ -1,0 +1,23 @@
+.example{
+    height: 200px;
+    border: solid black 2px;
+}
+.profile-img{
+    height: 450px;
+    border-radius: 20%;
+}
+
+body{
+    background-color: #CBDCEB;
+}
+.container{
+    background-color: #F5EFE6;
+    ;
+}
+.lead, p, h1, h2, h3, img{
+    padding: 25px;
+    align-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif 2em;
+}
+
